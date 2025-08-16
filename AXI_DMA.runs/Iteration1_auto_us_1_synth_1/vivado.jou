@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.1 (64-bit)
+# SW Build 5076996 on Wed May 22 18:36:09 MDT 2024
+# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+# Start of session at: Thu Aug 14 19:24:08 2025
+# Process ID: 13808
+# Current directory: /home/riscv/Documents/VivadoProjects/AXI_DMA/AXI_DMA.runs/Iteration1_auto_us_1_synth_1
+# Command line: vivado -log Iteration1_auto_us_1.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source Iteration1_auto_us_1.tcl
+# Log file: /home/riscv/Documents/VivadoProjects/AXI_DMA/AXI_DMA.runs/Iteration1_auto_us_1_synth_1/Iteration1_auto_us_1.vds
+# Journal file: /home/riscv/Documents/VivadoProjects/AXI_DMA/AXI_DMA.runs/Iteration1_auto_us_1_synth_1/vivado.jou
+# Running On        :riscv-Zenbook-UX3404VA-Q420VA
+# Platform          :Ubuntu
+# Operating System  :Ubuntu 22.04.5 LTS
+# Processor Detail  :13th Gen Intel(R) Core(TM) i7-13700H
+# CPU Frequency     :400.455 MHz
+# CPU Physical cores:14
+# CPU Logical cores :20
+# Host memory       :16367 MB
+# Swap memory       :2147 MB
+# Total Virtual     :18515 MB
+# Available Virtual :13065 MB
+#-----------------------------------------------------------
+source Iteration1_auto_us_1.tcl -notrace
